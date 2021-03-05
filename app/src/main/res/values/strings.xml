@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DynamicModule</string>
+    <string name="title_mymodule">Sample Module</string>
+    <string name="download_my_module">Download My Module</string>
+    <string name="open_my_module">Open My Module</string>
+</resources>
